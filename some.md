@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 123142325 asdasdasdasd
 sdasdasd
+=======
+asfdsafdsa 123214124
+>>>>>>> 76c5d748f4164861ea0d4680b4f7a79bbd484e2c
 
 412423445435 asdasdasd
